@@ -1,0 +1,1 @@
+Time(s)	V_sweep(V)	V_applied(V)	Current(A)	N_disc(m^-3)	N_plug(m^-3)	Temperature(K)	R_Schottky(Omega)	R_disc(Omega)	R_plug(Omega)	R_series(Omega)	V_Schottky(V)	V_disc(V)	V_plug(V)	V_series(V)	
